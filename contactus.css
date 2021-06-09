@@ -1,0 +1,25 @@
+body
+{
+background-image:url(images/social.jpg);
+background-size: cover;
+}
+
+.bi
+{
+margin-top: 50px;
+
+
+}
+
+h1{
+    font-family: 'Anton', sans-serif;
+    margin-left: 100px;
+    
+    
+}
+
+a,a:hover , a:focus, a:active{
+text-decoration: none !important;
+color: inherit;
+
+}

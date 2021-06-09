@@ -1,0 +1,12 @@
+body{
+
+background-image: url("images/teddy.jpg");
+background-size: cover;
+
+}
+
+
+
+input, select,textarea {
+    background-color: #e06d5b;
+  }

@@ -1,0 +1,19 @@
+body
+{
+background-image: url("images/medicine.jpg");
+background-size:cover
+}
+
+h1{
+    font-family: 'Anton', sans-serif;
+    
+    
+}
+
+.btn{
+margin-left: 600px;
+margin-top: 65px;
+
+}
+
+ 
